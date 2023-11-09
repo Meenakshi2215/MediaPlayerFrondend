@@ -1,0 +1,15 @@
+Project :- VideoPlayer 
+----------------------
+
+Navigation 
+    1) - Library :- react-router-dom (install chyyuka)
+                    npm i react-router-dom
+
+    2) place the entire application inside BrowserRouter Tag
+
+            (ath index.js il aanu ollath)
+
+    3) place those components which need routing inside Router Tag
+        Routing:- setting path to react components.
+
+
